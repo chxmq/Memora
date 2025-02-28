@@ -868,6 +868,7 @@ footer {
 .footer-content {
   display: flex;
   flex-wrap: wrap;
+  
   gap: 3rem;
   max-width: 1200px;
   margin: 0 auto;
@@ -880,6 +881,7 @@ footer {
 
 .footer-logo img {
   height: 50px;
+  background-color: white;
   margin-bottom: 1rem;
 }
 
